@@ -1,0 +1,6 @@
+﻿{
+  "name": "SnowBoarder.Runtime",
+  "rootNamespace": "SnowBoarderLab",
+  "references": ["Unity.InputSystem"],
+  "autoReferenced": true
+}
