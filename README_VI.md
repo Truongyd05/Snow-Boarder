@@ -1,4 +1,4 @@
-﻿# Snow Boarder — Lab 2
+# Snow Boarder — Lab 2
 
 ## Mở và chơi
 
@@ -38,7 +38,7 @@ Lưu điểm cao nhất, lựa chọn âm lượng/tuyết và tiến độ mở
 
 ## Kiểm thử
 
-TestResults.xml chứa kết quả Unity Test Runner (Play Mode). Bộ kiểm tra nằm trong Assets/Tests/SnowBoarderPlayTests.cs và không có trong bản build game. Mở Window > General > Test Runner, chọn PlayMode, chạy FullRunLifecycle. Kiểm tra tải asset/âm thanh, chuyển động vật lý, điểm, combo, shield, crash, hết mạng, restart, tiến ba màn (LevelComplete rồi Won) và trigger đích.
+Bộ kiểm tra nằm trong Assets/Tests/SnowBoarderPlayTests.cs và không có trong bản build game. Mở Window > General > Test Runner, chọn PlayMode, chạy FullRunLifecycle. Kiểm tra tải asset/âm thanh, chuyển động vật lý, điểm, combo, shield, crash, hết mạng, restart, tiến ba màn (LevelComplete rồi Won) và trigger đích.
 
 ## Nộp bài
 
